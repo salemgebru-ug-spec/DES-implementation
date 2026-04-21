@@ -94,7 +94,11 @@ DES is now considered **insecure** due to its small key size (56 bits) and is no
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
+Lydia Yoseph
+Meseret Ghebiresilassie 
+Mikiyas Fasil
 Salem Gebru
-Computer Science Student, Addis Ababa University
+
+Computer Science Department Students, Addis Ababa University
